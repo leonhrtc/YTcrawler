@@ -1,6 +1,6 @@
-google-api-python-client
-pandas
-openpyxl
-xlsxwriter
+pandas>=2.0.3
+openpyxl>=3.1.2
+XlsxWriter>=3.1.2
+requests>=2.31.0
+pytz>=2025.7
 tk
-python-dateutil
