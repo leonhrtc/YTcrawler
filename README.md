@@ -1,4 +1,4 @@
-# Flydigi & Gamesir YouTube Crawler (GUI Version)
+#YouTube Crawler (GUI Version)
 
 A Windows-based YouTube crawling tool for monitoring Flydigi and Gamesir brand videos.
 
